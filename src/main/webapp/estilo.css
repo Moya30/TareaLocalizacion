@@ -1,0 +1,23 @@
+#map {
+    height: 590px;
+    width: 100%;
+}
+.row {
+    zoom: 1;
+    margin-left: -20px;
+}
+.span11 {
+    width: 960px;
+}
+.popin {
+    background: #fff;
+    padding: 15px;
+    box-shadow: 0 0 20px #999;
+    border-radius: 2px;
+}
+h1{
+    margin: 0;   
+    color:black;
+    font-family: 'Trebuchet Ms';
+    padding: 1em;   
+}
